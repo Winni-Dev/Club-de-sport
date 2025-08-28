@@ -5,10 +5,8 @@ import service1 from '../IMAGES/service1.jpg';
 import service2 from '../IMAGES/service2.jpg'; // À remplacer
 import service3 from '../IMAGES/service3.jpg';
 import service4 from '../IMAGES/service4.jpg';
-// import { GiWeightLiftingUp, IoIosFitness, IoFitnessSharp, MdOutlineSportsMartialArts } from 'react-icons/all';
 import { GiWeightLiftingUp } from 'react-icons/gi';
-// import { IoIosFitness, IoFitnessSharp } from 'react-icons/io';
-import { IoIosFitness } from 'react-icons/io';  // Remplace IoFitnessSharp par IoFitness
+import { IoIosFitness } from 'react-icons/io'; 
 import { IoFitness } from "react-icons/io5";
 
 import { MdOutlineSportsMartialArts } from 'react-icons/md';

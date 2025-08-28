@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import aboutImage from '../IMAGES/About.jpg'; // À remplacer par votre image
+import aboutImage from '../IMAGES/about.jpg'; // À remplacer par votre image
 import teamImage from '../IMAGES/sport.jpg';
 import  img1 from '../IMAGES/coache.jpg';
 import img2 from '../IMAGES/coache2.jpg';
