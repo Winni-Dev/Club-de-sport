@@ -8,10 +8,10 @@ const InfiniteBanner = () => {
     { id: 3, name: 'Sponsor 3', logo: '/logo3.png' },
     { id: 4, name: 'Sponsor 4', logo: '/logo4.png' },
     { id: 5, name: 'Sponsor 5', logo: '/logo5.png' },
-    // Ajoutez autant de sponsors que nécessaire
+
   ];
 
-  // Dupliquez les sponsors pour créer un effet de boucle fluide
+
   const duplicatedSponsors = [...sponsors, ...sponsors];
   const bannerRef = useRef(null);
 
@@ -50,7 +50,7 @@ const InfiniteBanner = () => {
   );
 };
 
-// Styles avec styled-components
+
 const BannerContainer = styled.div`
   width: 100%;
   overflow: hidden;

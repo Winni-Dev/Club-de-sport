@@ -22,10 +22,10 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
-import logo from './IMAGES/logo.svg';
-import InfiniteBanner from './InfiniteBanner';
+// import logo from './IMAGES/logo.svg';
 import Footer from './Footer';
 import ScrollToTop from './assets/ScrollToTop';
+import InfiniteBanner from './InfiniteBanner';
 
 
 
